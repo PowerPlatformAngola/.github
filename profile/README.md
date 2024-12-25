@@ -1,4 +1,6 @@
 # Microsoft Power Platform Angola🚀
+![Microsoft Power Platform Angola](https://github.com/PowerPlatformAngola/.github/blob/main/profile/Microsoft%20Power%20Platform%20Angola.png)
+
 Bem-vindo à Comunidade Microsoft Power Platform Angola! Este é um espaço colaborativo que reúne profissionais, entusiastas e empresas interessados em explorar, aprender e aplicar as ferramentas da Microsoft Power Platform — como Copilot Studio, Power BI, Power Automate, Power Apps e Power Pages — no contexto angolano. É um ambiente onde ideias se transformam em soluções, conectando a tecnologia às necessidades e oportunidades reais do mercado local.
 
 ## 💡 Nossa Missão
