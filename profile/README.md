@@ -35,4 +35,4 @@ Se você é apaixonado por tecnologia e deseja se juntar a nós, existem várias
 Conecte-se conosco por meio de nossos canais e seja parte desta iniciativa que transforma desafios em oportunidades!
 
 - [LinkedIn](https://www.linkedin.com/company/power-platform-angola/)
-- [YouTube]()
+- [YouTube](https://www.youtube.com/@PowerPlatformAngola)
